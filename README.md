@@ -2,7 +2,7 @@
 ## HIT140 Foundations of Data Science - Assessment 2
 
 ### Team Members
-- Harsh Rastogi - Data Analysis & Statistical Testing
+- **Harsh Rastogi** - Data Analysis & Statistical Testing
 - Renish - Data Visualization & Interpretation  
 - Hena Akter - Data Exploration & Documentation
 - Princy - Research Methodology & Presentation
